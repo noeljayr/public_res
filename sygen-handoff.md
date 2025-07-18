@@ -44,3 +44,4 @@
 
 * **Icon pack 1 :** https://iconsax-react.pages.dev/
 * **Icon pack 2:** https://tabler.io/icons/
+* **Calendar (Booking easier):** https://cal.com/
